@@ -1,4 +1,6 @@
 # CyberSecuritySkillsRoadMap
+![CS Roadmap](https://user-images.githubusercontent.com/111991325/224866926-a6b11944-88cc-4653-976b-e4df585a59ca.jpeg)
+
 ## 1. Fundamental Concepts:
 - Basics of computer networks and communication protocols
 - Operating systems, computer hardware and software
