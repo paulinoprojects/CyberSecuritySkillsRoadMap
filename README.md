@@ -1,5 +1,6 @@
 # CyberSecuritySkillsRoadMap
 ![CS Roadmap](https://user-images.githubusercontent.com/111991325/224866926-a6b11944-88cc-4653-976b-e4df585a59ca.jpeg)
+![cybersecurity-career-path-938x1024](https://user-images.githubusercontent.com/111991325/224868928-6f5a3c98-b559-4759-966a-8f4717dca7b2.jpg)
 
 ## 1. Fundamental Concepts:
 - Basics of computer networks and communication protocols
